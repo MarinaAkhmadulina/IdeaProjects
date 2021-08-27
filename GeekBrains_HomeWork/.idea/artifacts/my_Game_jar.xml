@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="my_Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/my_Game_jar</output-path>
+    <root id="archive" name="GeekBrains_HomeWork.jar">
+      <element id="module-output" name="GeekBrains_HomeWork" />
+    </root>
+  </artifact>
+</component>
